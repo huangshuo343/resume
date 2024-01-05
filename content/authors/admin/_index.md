@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Biomedical Engineering
+      institution: University of Southern California
+      year: 2021-now
+    - course: MEng in Biomedical Engineering
+      institution: Southerst University (China)
+      year: 2015-2018
+    - course: BEng in Biomedical Engineering (With honor)
+      institution: Southeast University
+      year: 2011-2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shuo Huang (黄朔) is a Ph.D. Student in the Department of Biomedical Engineering in University of Southern California. He is now working on neuroimaging in the Lab of Neuroimaging under the supervision of Dr. Yonggang Shi. He also works on the inverse design of nanophotonic devices with Dr. Chia Wei (Wade) Hsu.
 {style="text-align: justify;"}
